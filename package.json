@@ -1,0 +1,23 @@
+{
+  "name": "type-declaration-files",
+  "version": "1.0.0",
+  "description": "Working with the type declaration files for TypeScript. This is going into all the folders and stuff outside the actual projects. Looking forward to this one!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-jaber/type-declaration-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan-jaber/type-declaration-files/issues"
+  },
+  "homepage": "https://github.com/jonathan-jaber/type-declaration-files#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
